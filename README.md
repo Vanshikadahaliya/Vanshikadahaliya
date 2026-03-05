@@ -38,7 +38,7 @@ I am currently working on enhancing my web development skills and building my po
 ## Connect  
 - [LinkedIn](https://www.linkedin.com/in/vanshikadahaliya)  
 - [X](https://twitter.com/vanshikadahaliya)  
-- Email: vanshikadahaliya@example.com  
+- Email: vanshikad0023@gmail.com 
 
 ---  
 
