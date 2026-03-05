@@ -1,5 +1,5 @@
 # Vanshika Dahaliya  
-_"Aspiring Software Developer and B.Tech CSE Student"_  
+
 
 ---  
 
