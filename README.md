@@ -73,7 +73,7 @@ A full-stack educational platform designed to help students manage and access ac
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/www.linkedin.com/in/vanshika-dahaliya-a9419a306  
+- 💼 LinkedIn: https://linkedin.com/in/vanshika-dahaliya-a9419a306  
 - 🐦 X (Twitter): https://twitter.com/@V_Dahaliya17 
 - 📧 Email: vanshikad0023@gmail.com  
 
