@@ -1,46 +1,87 @@
-# Vanshika Dahaliya  
+# 👋 Hi, I'm Vanshika Dahaliya
 
+🎓 B.Tech CSE Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast  
 
----  
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanshikadahaliya&show_icons=true&theme=radical)
 
-## About Me  
-I am a dedicated B.Tech CSE student with a passion for technology and innovation. My journey in the field of computer science has equipped me with valuable problem-solving skills and a solid understanding of programming principles. I am constantly exploring new technologies and trends in the tech world.  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vanshikadahaliya&theme=radical)
 
-## Tech Stack  
-### Languages  
+## 🌟 About Me
+I am a passionate Computer Science student with a strong interest in building impactful software solutions. I enjoy solving problems, exploring new technologies, and continuously improving my development skills.
+
+- 🌱 Currently learning: Data Structures & Algorithms + MERN Stack  
+- 💡 Interested in: Full Stack Development, Backend Systems  
+- 🎯 Goal: To become a skilled software engineer and build scalable products  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
 - Python  
 - JavaScript  
 - Java  
 - C++  
 
-### Web Development  
+### 🌐 Web Development
 - HTML  
 - CSS  
 - React.js  
 - Node.js  
 
-### Database  
+### 🗄 Database
 - MySQL  
 - MongoDB  
 
-### Tools  
+### ⚙️ Tools & Technologies
 - Git  
 - Docker  
 - VS Code  
 
-## Projects  
-### Grade Shastra  
-Grade Shastra is a comprehensive project designed to help students track their academic progress and grades effectively. The project includes features such as grade prediction, performance analytics, and personalized study recommendations.  
+---
 
-## Currently Working On  
-I am currently working on enhancing my web development skills and building my portfolio with new projects. Stay tuned for updates!  
+## 🚀 Projects
 
-## Connect  
-- [LinkedIn](https://www.linkedin.com/in/vanshikadahaliya)  
-- [X](https://twitter.com/vanshikadahaliya)  
-- Email: vanshikad0023@gmail.com 
+### 🎓 Grade Shastra
+A full-stack educational platform designed to help students manage and access academic resources efficiently.
 
----  
+#### ✨ Features:
+- 📊 Grade tracking and prediction  
+- 📈 Performance analytics  
+- 📚 Study material management  
+- 🔍 Search and filtering system  
 
-😊  
-Thank you for visiting my profile! Let's connect!
+#### 🛠 Tech Used:
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)
+
+---
+
+## 📈 Currently Working On
+- Improving my **Data Structures & Algorithms** skills  
+- Building **real-world full-stack projects**  
+- Expanding my **developer portfolio**  
+
+---
+
+## 🔮 Future Goals
+- 🚀 Build scalable web applications  
+- 🤖 Integrate AI features into projects  
+- 🌍 Contribute to open source  
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/www.linkedin.com/in/vanshika-dahaliya-a9419a306  
+- 🐦 X (Twitter): https://twitter.com/@V_Dahaliya17 
+- 📧 Email: vanshikad0023@gmail.com  
+
+---
+
+## 💡 Fun Fact
+I believe in **learning by building** and turning ideas into real-world applications 💻✨  
+
+---
+
+⭐ *Thanks for visiting my profile! Let's connect and grow together!* 🚀
