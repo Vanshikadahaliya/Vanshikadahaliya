@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vanshikadahaliya&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com/?user=Vanshikadahaliya&theme=radical" />
 </p>
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vanshikadahaliya&theme=radical)
+
 
 ## 🌟 About Me
 I am a passionate Computer Science student with a strong interest in building impactful software solutions. I enjoy solving problems, exploring new technologies, and continuously improving my development skills.
