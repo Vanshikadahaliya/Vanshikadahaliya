@@ -25,7 +25,6 @@ I am a passionate Computer Science student with a strong interest in building im
 
 ### ⚙️ Tools & Technologies
 - Git  
-- Docker  
 - VS Code  
 
 ---
