@@ -72,4 +72,3 @@ I believe in **learning by building** and turning ideas into real-world applicat
 
 ---
 
-⭐ *Thanks for visiting my profile! Let's connect and grow together!* 🚀
