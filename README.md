@@ -41,7 +41,7 @@ A full-stack educational platform designed to help students manage and access ac
 - 🔍 Search and filtering system  
 
 #### 🛠 Tech Used:
-- MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- MERN Stack (MongoDB, Express.js, React.js, Node.js, Next.js)
 
 ---
 
