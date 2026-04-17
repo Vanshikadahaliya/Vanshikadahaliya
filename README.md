@@ -65,10 +65,5 @@ A full-stack educational platform designed to help students manage and access ac
 - 🐦 X (Twitter): https://twitter.com/@V_Dahaliya17 
 - 📧 Email: vanshikad0023@gmail.com  
 
----
 
-## 💡 Fun Fact
-I believe in **learning by building** and turning ideas into real-world applications 💻✨  
-
----
 
