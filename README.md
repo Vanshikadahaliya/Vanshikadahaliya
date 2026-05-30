@@ -66,4 +66,6 @@ A full-stack educational platform designed to help students manage and access ac
 - 📧 Email: vanshikad0023@gmail.com  
 
 
+![Snake animation](https://raw.githubusercontent.com/Vanshikadahaliya/Vanshikadahaliya/output/github-contribution-grid-snake.svg)
+
 
