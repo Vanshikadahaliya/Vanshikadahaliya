@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Vanshika Dahaliya
 <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;MERN+Stack+Learner;Open+to+Opportunities" />
 
-🎓 B.Tech CSE Student| 🚀 Tech Enthusiast  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vanshikadahaliya&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com/?user=Vanshikadahaliya&theme=radical" />
