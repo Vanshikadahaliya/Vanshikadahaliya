@@ -47,7 +47,8 @@ A full-stack educational platform designed to help students manage and access ac
 ## 📈 Currently Working On
 - Improving my **Data Structures & Algorithms** skills  
 - Building **real-world full-stack projects**  
-- Expanding my **developer portfolio**  
+- Expanding my **developer portfolio**
+- Contributing to **Open-Source**
 
 ---
 
