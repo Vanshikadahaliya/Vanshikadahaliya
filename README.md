@@ -51,12 +51,6 @@ A full-stack educational platform designed to help students manage and access ac
 
 ---
 
-##  Future Goals
--  Build scalable web applications  
--  Integrate AI features into projects  
--  Contribute to open source  
-
----
 
 ##  Connect With Me
 
