@@ -83,7 +83,6 @@ A smart tourism platform designed to enhance tourist safety through real-time mo
 - Express.js
 - MongoDB
 - MySQL
-- Docker
 - Git
 - Kubernetes
 
