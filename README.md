@@ -28,6 +28,8 @@ I'm an active contributor to **Meshery**, where I work on improving the project 
 | [#2747](https://github.com/meshery/meshery.io/pull/2747) | fix: add whitespace on extensions page |
 | [#129](https://github.com/meshery-extensions/meshery-academy/pull/129) | docs: update outdated clone instructions |
 | [#128](https://github.com/meshery-extensions/meshery-academy/issues/128) | Docs README contains outdated DigitalOcean Academy clone instructions |
+| [#21222](https://github.com/meshery/meshery/pull/21222) | fix: handle formatter error before use in design view |
+
 
 
 ---
